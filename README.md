@@ -42,6 +42,13 @@
         <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="osul1p streak" src="https://github-readme-streak-stats.herokuapp.com/?user=osul1p&theme=dark&hide_border=false&stroke=000000&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=BD93F9" />
       </td>
     </tr>
+     <tr><td height="30"></td></tr>
+    <tr border="none">
+      <td width="100%" align="center">
+        <h3 style="color: #FF79C6;">Account: osul1p</h3>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="p1luso streak" src="https://github-readme-streak-stats.herokuapp.com/?user=p1luso&theme=dark&hide_border=false&stroke=000000&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=BD93F9" />
+      </td>
+    </tr>
   </table>
 </p>
 
