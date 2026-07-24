@@ -18,7 +18,7 @@
 - 🔭 I am currently working as a **teaching assistant at UTN (National University of Technology).**
 - 🌱 I am currently in the **last semester of my technical degree.**
 - 📝 I regularly try to stay active by **learning about new topics.**
-- 📫 Feel free to reach me out <a href="https://www.santiagoperezdelfino.com" target="_blank" rel="noopener noreferrer">Portfolio</a>.
+- 📫 Feel free to reach me out <a href="https://www.santiperezdelfino.com" target="_blank" rel="noopener noreferrer">Portfolio</a>.
 
 <br>
 
